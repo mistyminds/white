@@ -1,6 +1,6 @@
 # Site settings
 title: Hux Blog
-theme: "zhaohuabing/hugo-theme-cleanwhite"
+theme: "StartBootstrap/startbootstrap-clean-blog-jekyll"
 SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
